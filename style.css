@@ -1,0 +1,63 @@
+* {
+    font-family: 'Nunito', 'Arial';
+}
+.orange {
+    background: #FF9900;
+    color: white;
+}
+.orange a, .orange span {
+    color: white;
+    font-size: 1.5rem;
+}
+.orange a:hover {
+    color: white;
+}
+.white a, .white span {
+    color: black;
+    font-size: 1.5rem;
+}
+.white a:hover {
+    color: black;
+}
+.socials i {
+    font-size: 2rem;
+    padding-inline: .5rem;
+}
+.white {
+    background: #fff;
+    color: black
+}
+p {
+    font-size: 2rem
+}
+.banner {
+    width: 100%;
+    opacity: 95%;
+}
+.banner-div{
+    background-color: black;
+}
+.title {
+    font-size: 4.5rem;
+    font-weight: bolder;
+}
+.intro::after, .sponsor {
+    content: "";
+    clear: both;
+    display: table;
+}
+.intro img {
+    width: 35%;
+}
+.intro {
+    background-color: #ffc369;
+}
+.sponsor img {
+    width: 15%
+}
+.sponsor {
+    width: 99%
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bolder;
+}
